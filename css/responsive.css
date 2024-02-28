@@ -1,0 +1,10 @@
+@media (max-width: 1150px) {
+    body {
+       font: 55%;
+       align-items: center;
+       justify-content: center;
+    }
+    nav {
+        display: none;
+    }
+}
